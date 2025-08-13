@@ -1,0 +1,9 @@
+{
+  "name": "sport-connect",
+  "version": "1.0.0",
+  "description": "Simple sports player matchmaking app",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  }
+}

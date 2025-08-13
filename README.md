@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
+# SportConnect
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+SportConnect is a lightweight web application that helps athletes find playing partners for tennis, football, basketball, or padel.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Open `index.html` in your browser to explore the app. Use the selector to filter players by sport and discover potential teammates.
+
+## Tests
+
+Run the test suite with:
+
+```
+npm test
+```
